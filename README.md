@@ -1,4 +1,3 @@
-# Job-Description-Dashboard
 # Job Description Dashboard 📊
 
 This project is a **Power BI Dashboard** built on a dataset of job descriptions.  
@@ -34,10 +33,12 @@ It provides insights into job roles, qualifications, work types, locations, comp
 
 ## 📸 Dashboard Preview
 ### Dataset Fields
-C:\Users\PRIYANSHU RAJPUT\Pictures\Screenshots\Screenshot 2025-08-15 225741.png
+
+<img width="2130" height="937" alt="Screenshot 2025-08-17 103422" src="https://github.com/user-attachments/assets/b49d0d77-62ff-4634-b762-47b0c87ec64c" />
 
 ### Dashboard View
-C:\Users\PRIYANSHU RAJPUT\Pictures\Screenshots\Screenshot 2025-08-17 100642.png
+
+<img width="1949" height="1099" alt="Screenshot 2025-08-17 100642" src="https://github.com/user-attachments/assets/9295e251-d41e-41be-a546-db4ce4fcc5cd" />
 
 ---
 
